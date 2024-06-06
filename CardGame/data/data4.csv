@@ -1,0 +1,137 @@
+winner,target,hand cards,used cards,winner score,loser score
+AI-random,1,3 3 3 3 3 4 4 4 5 5 6 6 7 7 8 Q Q Q K K A A A 2 2, ,274,327
+AI-random,1,3 3 3 3 3 4 4 4 5 5 6 6 7 7 8 Q Q Q A A A 2 2, 9 9 ,274,327
+AI-random,7,3 3 3 3 3 6 6 7 7 8 Q Q Q A A A 2 2, 9 9 K K ,274,327
+AI-random,5,7 7 8 A A A 2 2, 9 9 K K 4 4 4 5 5 6 6 6 3 3 Q Q Q 6 6 ,274,327
+AI-random,7,8 2 2, 9 9 K K 4 4 4 5 5 6 6 6 3 3 Q Q Q 6 6 3 3 3 3 3 ,274,327
+AI-random,5,4 4 5 5 6 6 6 7 8 9 10 10 10 10 J J J K A A 2 2, A A A A 8 Q ,286,322
+AI-random,7,5 5 6 6 6 7 8 9 10 10 10 10 K A A 2 2, A A A A 8 Q 3 3 3 3 ,286,322
+AI-random,0,5 6 6 6 7 8 9 10 10 10 10 K A A 2 2, A A A A 8 Q 3 3 3 3 J J J 4 4 ,286,322
+AI-random,5,5 6 6 6 7 8 9 K A A 2 2, A A A A 8 Q 3 3 3 3 J J J 4 4 5 ,286,322
+AI-random,3,6 6 K A A 2 2, A A A A 8 Q 3 3 3 3 J J J 4 4 5 10 10 10 10 ,286,322
+AI-random,1,K A A 2 2, A A A A 8 Q 3 3 3 3 J J J 4 4 5 10 10 10 10 5 6 7 8 9 ,286,322
+AI-random,1,K 2 2, A A A A 8 Q 3 3 3 3 J J J 4 4 5 10 10 10 10 5 6 7 8 9 6 6 ,286,322
+AI-random,1,K, A A A A 8 Q 3 3 3 3 J J J 4 4 5 10 10 10 10 5 6 7 8 9 6 6 A A ,286,322
+AI-random,0,, A A A A 8 Q 3 3 3 3 J J J 4 4 5 10 10 10 10 5 6 7 8 9 6 6 A A 2 2 ,286,322
+AI-forest-model,3,3 3 3 4 4 6 6 10 J J J K K A A 2 2, 10 J Q K A 9 9 9 9 Q Q Q Q Q ,270,300
+AI-forest-model,0,3 3 3 4 4 6 6 J J J K K A A 2 2, 10 J Q K A 9 9 9 9 Q Q Q Q Q 4 5 6 7 8 ,270,300
+AI-forest-model,7,K K A A 2 2, 10 J Q K A 9 9 9 9 Q Q Q Q Q 4 5 6 7 8 10 J 7 7 8 8 10 2 2 3 3 3 4 4 J J J 6 6 ,270,300
+AI-forest-model,5,5 5 5 7 7 7 8 8 8 9 9 9 10 10 10 Q Q Q Q, 3 6 8 J Q 2 ,328,274
+AI-forest-model,2,7 7 7 8 8 8 9 9 9 10 10 10 Q Q Q Q, 3 6 8 J Q 2 3 3 3 3 3 ,328,274
+AI-forest-model,5,7 7 7 8 8 8 9 9 9 10 10 10, 3 6 8 J Q 2 3 3 3 3 3 5 5 5 ,328,274
+AI-forest-model,0,4 4 4 5 6 6 6 7 7 7 7 8 9 10 J Q K K K K A A A A 2 2, ,322,328
+AI-forest-model,0,4 4 5 6 6 6 7 7 7 7 K K K K A A A A 2 2, 3 7 6 7 8 9 10 8 9 10 J Q ,322,328
+AI-forest-model,1,5 7 7 7 7 K K K K A A A A, 3 7 6 7 8 9 10 8 9 10 J Q 4 K 3 3 3 5 5 6 6 6 4 4 ,322,328
+AI-forest-model,5,5 K K K K A A A A, 3 7 6 7 8 9 10 8 9 10 J Q 4 K 3 3 3 5 5 6 6 6 4 4 2 2 ,322,328
+AI-random,5,3 3 4 5 8 8 8 8 9 10 10 J K K K A, 4 4 6 6 J J Q Q A A 2 2 ,294,327
+AI-random,1,3 3 4 5 9 J K K K A, 4 4 6 6 J J Q Q A A 2 2 7 7 7 7 7 10 10 10 10 10 2 2 2 3 3 5 6 7 8 9 8 8 8 8 ,294,327
+AI-random,0,3 3 5 9 J K K K A, 4 4 6 6 J J Q Q A A 2 2 7 7 7 7 7 10 10 10 10 10 2 2 2 3 3 5 6 7 8 9 8 8 8 8 10 10 ,294,327
+AI-random,0,3 3 9 J K K K A, 4 4 6 6 J J Q Q A A 2 2 7 7 7 7 7 10 10 10 10 10 2 2 2 3 3 5 6 7 8 9 8 8 8 8 10 10 4 ,294,327
+AI-random,0,3 3 J K K K A, 4 4 6 6 J J Q Q A A 2 2 7 7 7 7 7 10 10 10 10 10 2 2 2 3 3 5 6 7 8 9 8 8 8 8 10 10 4 5 ,294,327
+AI-random,7,J, 4 4 6 6 J J Q Q A A 2 2 7 7 7 7 7 10 10 10 10 10 2 2 2 3 3 5 6 7 8 9 8 8 8 8 10 10 4 5 9 Q A ,294,327
+AI-random,0,, 4 4 6 6 J J Q Q A A 2 2 7 7 7 7 7 10 10 10 10 10 2 2 2 3 3 5 6 7 8 9 8 8 8 8 10 10 4 5 9 Q A K K K 3 3 ,294,327
+AI-forest-model,6,3 6 6 8 8 8 8 9 9 J J, 4 4 4 5 5 7 7 7 4 4 J J J 6 6 2 2 2 5 5 ,302,306
+AI-forest-model,0,6 6 9 9, 4 4 4 5 5 7 7 7 4 4 J J J 6 6 2 2 2 5 5 Q Q Q K K K K K K A A A 8 9 9 J J Q Q 8 8 8 8 ,302,306
+AI-random,1,4 4 4 4 5 6 6 7 7 8 8 9 9 10 J J Q Q Q Q K K, K K A A 2 2 4 2 ,292,293
+AI-random,3,4 4 4 4 6 7 8 9 10 J J Q Q Q Q K K, K K A A 2 2 4 2 3 3 ,292,293
+AI-random,5,6 7 8 9 10 J J Q Q Q Q K K, K K A A 2 2 4 2 3 3 5 6 7 8 9 ,292,293
+AI-random,3,J J K K, K K A A 2 2 4 2 3 3 5 6 7 8 9 4 4 4 4 8 8 8 8 Q Q Q Q ,292,293
+AI-random,1,K K, K K A A 2 2 4 2 3 3 5 6 7 8 9 4 4 4 4 8 8 8 8 Q Q Q Q 6 7 8 9 10 ,292,293
+AI-random,1,, K K A A 2 2 4 2 3 3 5 6 7 8 9 4 4 4 4 8 8 8 8 Q Q Q Q 6 7 8 9 10 J J ,292,293
+AI-random,0,3 3 4 4 5 5 5 5 7 7 7 8 8 9 10 10 10 10 J J J Q Q A 2 2, ,295,316
+AI-random,7,4 4 5 5 5 5 8 8 9 10 10 10 10 J J J Q Q 2 2, 6 9 A ,295,316
+AI-random,1,5 5 5 5 9 10 10 10 10 Q Q 2 2, 6 9 A 7 7 7 3 3 8 8 8 5 5 J J J 4 4 ,295,316
+AI-random,0,5 5 5 5 10 10 10 10, 6 9 A 7 7 7 3 3 8 8 8 5 5 J J J 4 4 8 8 10 10 Q Q K K 2 2 ,295,316
+AI-random,5,10 10 10 10, 6 9 A 7 7 7 3 3 8 8 8 5 5 J J J 4 4 8 8 10 10 Q Q K K 2 2 9 ,295,316
+AI-random,0,3 4 5 5 5 6 7 9 9 9 10 10 J Q Q Q K K K A A, J J J 3 3 2 2 2 8 8 ,296,281
+AI-random,7,3 4 5 6 7 10 10 Q Q Q K K K A A, J J J 3 3 2 2 2 8 8 6 K Q Q Q 4 4 3 J ,296,281
+AI-random,1,3 4 5 6 7 Q Q Q K K K A A, J J J 3 3 2 2 2 8 8 6 K Q Q Q 4 4 3 J 9 9 9 5 5 ,296,281
+AI-random,1,3 4 5 6 7 Q Q Q K K K, J J J 3 3 2 2 2 8 8 6 K Q Q Q 4 4 3 J 9 9 9 5 5 10 10 ,296,281
+AI-random,3,Q Q Q K K K, J J J 3 3 2 2 2 8 8 6 K Q Q Q 4 4 3 J 9 9 9 5 5 10 10 A A ,296,281
+AI-random,2,Q, J J J 3 3 2 2 2 8 8 6 K Q Q Q 4 4 3 J 9 9 9 5 5 10 10 A A 3 4 5 6 7 7 7 7 7 6 8 8 8 8 5 5 Q Q ,296,281
+AI-random,0,, J J J 3 3 2 2 2 8 8 6 K Q Q Q 4 4 3 J 9 9 9 5 5 10 10 A A 3 4 5 6 7 7 7 7 7 6 8 8 8 8 5 5 Q Q K K K ,296,281
+AI-random,5,3 4 5 7 7 8 8 9 9 9 9 10 J J J J Q Q Q Q K K 2, ,321,275
+AI-random,0,4 5 7 7 8 8 9 9 9 9 10 J J J J Q Q Q Q K K 2, 6 6 6 6 ,321,275
+AI-random,0,5 7 7 8 8 9 9 9 9 J J J J Q Q Q Q K K, 6 6 6 6 3 6 10 Q 2 ,321,275
+AI-random,0,7 7 8 8 9 9 9 9 J J J J Q Q Q Q, 6 6 6 6 3 6 10 Q 2 4 A 10 10 10 4 4 J J J 5 5 8 8 K K ,321,275
+AI-random,1,8 8 9 9 9 9 J J J J Q Q Q Q, 6 6 6 6 3 6 10 Q 2 4 A 10 10 10 4 4 J J J 5 5 8 8 K K 5 ,321,275
+AI-random,5,8 8 Q Q Q Q, 6 6 6 6 3 6 10 Q 2 4 A 10 10 10 4 4 J J J 5 5 8 8 K K 5 7 7 9 9 K K 3 4 5 6 7 9 9 9 9 ,321,275
+AI-random,1,Q Q Q Q, 6 6 6 6 3 6 10 Q 2 4 A 10 10 10 4 4 J J J 5 5 8 8 K K 5 7 7 9 9 K K 3 4 5 6 7 9 9 9 9 J J J J ,321,275
+AI-random,7,4 6 6 7 7 8 9 Q Q Q K K K A 2 2 2 2, 7 7 J J A A 2 2 ,331,286
+AI-random,0,6 6 7 7 9 Q Q Q K K K, 7 7 J J A A 2 2 10 10 10 3 3 J J J 5 5 3 4 10 A 2 Q Q Q Q 2 2 2 2 ,331,286
+AI-random,6,6 6 7 7 9, 7 7 J J A A 2 2 10 10 10 3 3 J J J 5 5 3 4 10 A 2 Q Q Q Q 2 2 2 2 8 ,331,286
+AI-random,1,7 7 9, 7 7 J J A A 2 2 10 10 10 3 3 J J J 5 5 3 4 10 A 2 Q Q Q Q 2 2 2 2 8 Q Q Q K K K ,331,286
+AI-random,1,9, 7 7 J J A A 2 2 10 10 10 3 3 J J J 5 5 3 4 10 A 2 Q Q Q Q 2 2 2 2 8 Q Q Q K K K 6 6 ,331,286
+AI-random,0,, 7 7 J J A A 2 2 10 10 10 3 3 J J J 5 5 3 4 10 A 2 Q Q Q Q 2 2 2 2 8 Q Q Q K K K 6 6 7 7 ,331,286
+AI-forest-model,4,3 3 3 3 4 5 6 6 7 7 7 8 K K K, 9 9 9 10 10 10 A A A 2 2 2 ,298,305
+AI-forest-model,0,3 3 3 3 4 5 6 7 7 7 8 K K K, 9 9 9 10 10 10 A A A 2 2 2 10 10 J J Q Q ,298,305
+AI-forest-model,5,4 5 6 7 8, 9 9 9 10 10 10 A A A 2 2 2 10 10 J J Q Q 6 K J J Q Q Q 4 4 K K K 7 7 ,298,305
+AI-random,1,3 3 5 5 5 5 6 6 6 8 8 8 9 9 10 10 J J Q K K A A A 2, ,288,296
+AI-random,7,5 5 5 5 8 8 8 9 9 10 10 J J A A A, 7 7 8 8 K K 2 2 J J Q Q K K 4 4 6 6 6 3 3 5 Q A 2 ,288,296
+AI-random,4,5 5 5 5 8 8 8 A A A, 7 7 8 8 K K 2 2 J J Q Q K K 4 4 6 6 6 3 3 5 Q A 2 6 6 6 3 3 ,288,296
+AI-random,2,5 5 5 5 A A A, 7 7 8 8 K K 2 2 J J Q Q K K 4 4 6 6 6 3 3 5 Q A 2 6 6 6 3 3 9 9 10 10 J J ,288,296
+AI-random,2,, 7 7 8 8 K K 2 2 J J Q Q K K 4 4 6 6 6 3 3 5 Q A 2 6 6 6 3 3 9 9 10 10 J J 8 8 8 Q Q Q Q 7 5 5 5 5 ,288,296
+AI-forest-model,7,4 4 4 5 5 5 6 6 6 6 7 7 10 10 J J J A A 2 2 2, ,320,282
+AI-random,5,3 3 5 5 6 6 8 8 8 8 9 9 10 10 J Q Q K A A A 2 2, ,297,305
+AI-random,1,6 6 8 8 8 8 9 9 10 10 J Q Q K 2 2, 4 4 4 4 10 10 10 10 5 6 7 8 9 J J J 3 3 A A A 3 3 ,297,305
+AI-random,1,8 8 8 8 9 9 10 10 J Q Q K, 4 4 4 4 10 10 10 10 5 6 7 8 9 J J J 3 3 A A A 3 3 5 5 Q Q 2 2 ,297,305
+AI-random,1,10 10 J Q Q K, 4 4 4 4 10 10 10 10 5 6 7 8 9 J J J 3 3 A A A 3 3 5 5 Q Q 2 2 6 6 A A 2 2 8 8 8 8 ,297,305
+AI-random,1,J K, 4 4 4 4 10 10 10 10 5 6 7 8 9 J J J 3 3 A A A 3 3 5 5 Q Q 2 2 6 6 A A 2 2 8 8 8 8 9 9 K K 7 7 10 10 ,297,305
+AI-random,0,K, 4 4 4 4 10 10 10 10 5 6 7 8 9 J J J 3 3 A A A 3 3 5 5 Q Q 2 2 6 6 A A 2 2 8 8 8 8 9 9 K K 7 7 10 10 Q Q ,297,305
+AI-forest-model,5,3 4 4 5 5 7 7 7 7 8 9 9 10 10 J J Q K K K K K A, ,328,297
+AI-forest-model,1,3 5 5 7 7 7 7 8 9 9 10 10 J J Q A, 6 6 6 6 9 9 9 9 K K K K K ,328,297
+AI-forest-model,1,3 7 7 7 7 9 9 10 10 J J A, 6 6 6 6 9 9 9 9 K K K K K 4 4 5 5 6 8 10 Q ,328,297
+AI-random,1,3 3 4 4 4 5 9 9 9 10 10 10 Q Q K A A A A 2, 7 7 7 5 5 8 8 8 6 6 ,300,312
+AI-random,5,3 3 4 4 4 9 9 9 10 10 10 Q Q 2, 7 7 7 5 5 8 8 8 6 6 J J K K 4 5 6 K ,300,312
+AI-random,7,9 9 9 10 10 10 Q Q 2, 7 7 7 5 5 8 8 8 6 6 J J K K 4 5 6 K A A A A ,300,312
+AI-random,6,Q Q 2, 7 7 7 5 5 8 8 8 6 6 J J K K 4 5 6 K A A A A 4 4 4 3 3 ,300,312
+AI-random,5,3 3 6 6 7 7 7 7 7 8 8 8 J Q Q K K A A 2 2 2, ,302,305
+AI-random,5,6 6 Q Q K K A A 2 2 2, 4 4 4 4 4 K K K K K 4 J 2 7 3 3 3 5 5 8 8 8 3 3 ,302,305
+AI-random,4,6 6 2 2 2, 4 4 4 4 4 K K K K K 4 J 2 7 3 3 3 5 5 8 8 8 3 3 7 7 7 7 7 ,302,305
+AI-random,0,6 6, 4 4 4 4 4 K K K K K 4 J 2 7 3 3 3 5 5 8 8 8 3 3 7 7 7 7 7 Q Q K K A A 10 10 10 10 6 6 8 8 2 2 ,302,305
+AI-random,1,, 4 4 4 4 4 K K K K K 4 J 2 7 3 3 3 5 5 8 8 8 3 3 7 7 7 7 7 Q Q K K A A 10 10 10 10 6 6 8 8 2 2 2 ,302,305
+AI-random,1,3 5 5 5 5 5 8 9 9 10 10 10 10 J J K K K A A A 2 2, J Q K A 2 3 7 9 Q ,306,268
+AI-random,1,3 8 10 10 10 10 K K K A A A 2 2, J Q K A 2 3 7 9 Q 4 4 10 10 J J 2 2 4 4 4 4 5 5 5 5 5 ,306,268
+AI-random,6,3 8 10 10 10 10 2 2, J Q K A 2 3 7 9 Q 4 4 10 10 J J 2 2 4 4 4 4 5 5 5 5 5 9 9 ,306,268
+AI-random,1,3 8 10 10 10 10, J Q K A 2 3 7 9 Q 4 4 10 10 J J 2 2 4 4 4 4 5 5 5 5 5 9 9 K K K A A A ,306,268
+AI-random,5,3 8, J Q K A 2 3 7 9 Q 4 4 10 10 J J 2 2 4 4 4 4 5 5 5 5 5 9 9 K K K A A A 2 2 ,306,268
+AI-random,0,8, J Q K A 2 3 7 9 Q 4 4 10 10 J J 2 2 4 4 4 4 5 5 5 5 5 9 9 K K K A A A 2 2 10 10 10 10 ,306,268
+AI-forest-model,1,3 3 4 4 6 7 7 7 8 8 9 9 10 10 10 J Q Q K K K K A 2 2, ,301,298
+AI-forest-model,7,4 4 6 10 10 10 J K K K K A, 5 5 7 7 8 8 9 9 Q Q 2 2 4 4 9 9 10 10 2 2 ,301,298
+AI-forest-model,7,6 J K K K K A, 5 5 7 7 8 8 9 9 Q Q 2 2 4 4 9 9 10 10 2 2 7 7 7 3 3 ,301,298
+AI-forest-model,0,J, 5 5 7 7 8 8 9 9 Q Q 2 2 4 4 9 9 10 10 2 2 7 7 7 3 3 10 10 10 4 4 5 5 5 5 K K K K A A A A J A ,301,298
+AI-random,7,4 5 5 6 6 7 8 8 9 9 10 10 10 10 J J K A A A 2 2, ,306,304
+AI-random,0,5 5 6 6 7 8 8 9 9 10 10 10 10 J J K A A A 2 2, Q Q Q 3 3 ,306,304
+AI-random,7,6 6 8 8 9 9 J J K 2 2, Q Q Q 3 3 4 2 4 4 4 4 10 10 10 10 K K K K J J J 3 7 ,306,304
+AI-random,0,6 6 8 8 9 9 J J 2 2, Q Q Q 3 3 4 2 4 4 4 4 10 10 10 10 K K K K J J J 3 7 A A A 5 5 ,306,304
+AI-random,1,8 8 9 9 J J 2 2, Q Q Q 3 3 4 2 4 4 4 4 10 10 10 10 K K K K J J J 3 7 A A A 5 5 K ,306,304
+AI-random,1,J J, Q Q Q 3 3 4 2 4 4 4 4 10 10 10 10 K K K K J J J 3 7 A A A 5 5 K 6 6 8 8 9 9 Q Q 2 2 ,306,304
+AI-forest-model,3,3 3 3 3 4 4 4 4 5 5 8 8 8 8 10 10 10 10 A A, 4 6 8 K ,342,307
+AI-forest-model,1,3 3 3 3 4 4 4 4 8 8 8 8 10 10 10 10 A A, 4 6 8 K J Q K A 2 ,342,307
+AI-forest-model,5,4 4 4 4 8 8 8 8 10 10 10 10, 4 6 8 K J Q K A 2 5 5 6 6 A A ,342,307
+AI-forest-model,4,3 4 4 5 5 5 6 10 10 J J Q Q K K K A A 2 2 2, ,253,296
+AI-forest-model,0,4 4 5 5 5 6 10 10 J J Q Q K K K A A 2 2 2, 7 7 8 8 9 9 ,253,296
+AI-forest-model,7,6 10 10 J J Q Q A A, 7 7 8 8 9 9 3 4 5 9 6 6 6 4 4 K K K 4 4 ,253,296
+AI-forest-model,0,10 10 J J Q Q A A, 7 7 8 8 9 9 3 4 5 9 6 6 6 4 4 K K K 4 4 2 2 2 5 5 ,253,296
+AI-random,7,3 5 6 6 7 8 8 9 10 10 J J K K A A A 2 2 2 2 2, ,323,270
+AI-random,3,3 8 A A A 2 2 2 2 2, Q Q Q 4 4 K K K 4 4 3 6 9 5 5 10 10 J J K K A A Q 8 8 J J ,323,270
+AI-random,5,3 8 A A A, Q Q Q 4 4 K K K 4 4 3 6 9 5 5 10 10 J J K K A A Q 8 8 J J 5 6 7 8 9 ,323,270
+AI-random,0,8 A A A, Q Q Q 4 4 K K K 4 4 3 6 9 5 5 10 10 J J K K A A Q 8 8 J J 5 6 7 8 9 2 2 2 2 2 ,323,270
+AI-random,0,A, Q Q Q 4 4 K K K 4 4 3 6 9 5 5 10 10 J J K K A A Q 8 8 J J 5 6 7 8 9 2 2 2 2 2 3 6 6 6 6 10 10 A A ,323,270
+AI-random,0,, Q Q Q 4 4 K K K 4 4 3 6 9 5 5 10 10 J J K K A A Q 8 8 J J 5 6 7 8 9 2 2 2 2 2 3 6 6 6 6 10 10 A A 8 ,323,270
+AI-forest-model,3,4 4 5 5 6 6 8 8 8 9 9 Q Q Q A, 3 7 8 10 A 9 J 2 6 6 6 6 K K K K ,305,272
+AI-forest-model,7,5 5 6 6 9 9 Q Q Q A, 3 7 8 10 A 9 J 2 6 6 6 6 K K K K 3 4 5 6 7 ,305,272
+AI-forest-model,7,6 6 9 9 A, 3 7 8 10 A 9 J 2 6 6 6 6 K K K K 3 4 5 6 7 8 8 8 4 4 ,305,272
+AI-random,7,3 6 6 7 10 Q Q K K K A A 2, 4 4 4 4 9 9 9 9 7 7 7 7 7 J J J J J ,310,289
+AI-random,7,3 7 10 Q Q A A 2, 4 4 4 4 9 9 9 9 7 7 7 7 7 J J J J J 5 5 5 4 4 ,310,289
+AI-random,1,3 7 10 A A 2, 4 4 4 4 9 9 9 9 7 7 7 7 7 J J J J J 5 5 5 4 4 K K K 6 6 ,310,289
+AI-random,0,, 4 4 4 4 9 9 9 9 7 7 7 7 7 J J J J J 5 5 5 4 4 K K K 6 6 Q Q K K A A 2 2 8 8 8 8 3 7 9 10 Q 2 ,310,289
+AI-forest-model,1,3 4 4 5 5 5 6 6 9 9 9 9 J J Q Q A A A 2 2 2 2, 10 J Q K A 5 7 9 K ,267,320
+AI-forest-model,7,3 9 9 9 9 Q Q 2 2 2 2, 10 J Q K A 5 7 9 K 8 8 10 10 J J 2 2 7 7 7 3 3 A A A 6 6 ,267,320
+AI-forest-model,0,4 4 4 4 5 5 5 6 6 7 7 8 8 9 9 10 10 10 J J J Q K K K A, ,321,270
+AI-forest-model,2,4 4 4 4 5 5 5 6 6 7 7 8 8 9 9 10 10 10 J J J A, 3 4 Q ,321,270
+AI-forest-model,0,4 4 4 4 5 5 5 6 6 7 7 8 8 9 9 10 10 10 J J J, 3 4 Q K K K ,321,270
+AI-forest-model,4,4 4 4 4 5 5 5 6 6 10 10 10 J J J, 3 4 Q K K K A ,321,270
+AI-forest-model,6,4 4 4 4 5 5 5 6 6, 3 4 Q K K K A 7 7 8 8 9 9 ,321,270
+AI-forest-model,5,5 5 5 6 6, 3 4 Q K K K A 7 7 8 8 9 9 10 10 10 J J J ,321,270
+AI-forest-model,0,4 4 4 4 7 7 8 8 8 8 9 9 10 10 10 J J Q Q 2 2, 5 5 5 3 3 6 6 6 3 3 ,309,283

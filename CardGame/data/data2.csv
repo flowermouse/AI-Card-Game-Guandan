@@ -1,0 +1,50 @@
+winner,target,hand cards,used cards
+AI-tree-model,7,3 4 4 5 5 7 7 8 8 8 9 9 10 K K K, 9 9 9 10 10 10 A A A 2 2 2 
+AI-tree-model,7,3 7 7 9 9, 9 9 9 10 10 10 A A A 2 2 2 6 6 6 3 3 8 8 8 5 5 K K K 5 5 2 2 2 7 7 K K A A 3 10 
+AI-origin,7,3 5 5 6 7 7 9 9 J J Q Q Q K K A A 2 2 2 2, 9 10 
+AI-origin,7,3 6 7 7 J J A A, 9 10 8 8 8 4 4 K K K 6 6 10 7 7 9 9 Q Q K K 2 2 7 8 9 10 J A A A A 2 2 2 2 
+AI-origin,0,6 7 7 J J A A, 9 10 8 8 8 4 4 K K K 6 6 10 7 7 9 9 Q Q K K 2 2 7 8 9 10 J A A A A 2 2 2 2 Q Q Q 5 5 
+AI-origin,1,J J A A, 9 10 8 8 8 4 4 K K K 6 6 10 7 7 9 9 Q Q K K 2 2 7 8 9 10 J A A A A 2 2 2 2 Q Q Q 5 5 3 5 6 
+AI-origin,1,A A, 9 10 8 8 8 4 4 K K K 6 6 10 7 7 9 9 Q Q K K 2 2 7 8 9 10 J A A A A 2 2 2 2 Q Q Q 5 5 3 5 6 7 7 
+AI-origin,1,, 9 10 8 8 8 4 4 K K K 6 6 10 7 7 9 9 Q Q K K 2 2 7 8 9 10 J A A A A 2 2 2 2 Q Q Q 5 5 3 5 6 7 7 J J 
+AI-tree-model,7,3 5 5 6 6 7 8 10 10 10 J J Q Q K A A A 2 2 2, 3 4 
+AI-tree-model,7,3 6 6 7 8 J J Q Q K A A A 2 2 2, 3 4 9 9 9 3 3 
+AI-tree-model,6,3 6 6 7 8 J J Q Q K, 3 4 9 9 9 3 3 10 10 10 5 5 
+AI-tree-model,0,6 6 7 8 J J Q Q K, 3 4 9 9 9 3 3 10 10 10 5 5 A A A 2 2 2 
+AI-tree-model,0,6 6 J J Q Q K, 3 4 9 9 9 3 3 10 10 10 5 5 A A A 2 2 2 3 4 7 
+AI-origin,7,4 4 4 4 5 5 6 6 6 6 7 8 9 9 10 Q K K A A 2 2, 
+AI-origin,0,4 4 4 4 5 5 6 6 6 6 8 9 9 10 Q K K A A 2 2, J J J 3 3 
+AI-origin,0,4 4 4 4 5 5 6 6 6 6 9 9 10 K K A A 2 2, J J J 3 3 7 J Q 
+AI-origin,0,4 4 4 4 5 5 6 6 6 6 9 9 K K A A 2 2, J J J 3 3 7 J Q 8 
+AI-origin,1,4 4 4 4 6 6 6 6 9 9 K K A A 2 2, J J J 3 3 7 J Q 8 10 
+AI-origin,1,4 4 4 4 6 6 6 6 2 2, J J J 3 3 7 J Q 8 10 5 5 6 6 9 9 10 10 K K 
+AI-origin,1,4 4 4 4 6 6 6 6, J J J 3 3 7 J Q 8 10 5 5 6 6 9 9 10 10 K K A A 
+AI-origin,5,6 6 6 6, J J J 3 3 7 J Q 8 10 5 5 6 6 9 9 10 10 K K A A 2 2 
+AI-origin,5,, J J J 3 3 7 J Q 8 10 5 5 6 6 9 9 10 10 K K A A 2 2 4 4 4 4 
+AI-origin,7,3 5 5 5 6 6 6 7 7 9 10 J J J J Q K K A A A A, 
+AI-origin,6,3 7 7 9 10 J J J J Q K K A A A A, 2 2 2 4 4 
+AI-origin,0,7 7 J J J J K K A A A A, 2 2 2 4 4 5 5 5 6 6 6 Q Q Q K K K 4 9 J Q A 6 10 
+AI-origin,1,J J J J K K A A A A, 2 2 2 4 4 5 5 5 6 6 6 Q Q Q K K K 4 9 J Q A 6 10 3 
+AI-origin,5,A A A A, 2 2 2 4 4 5 5 5 6 6 6 Q Q Q K K K 4 9 J Q A 6 10 3 7 7 9 9 K K 
+AI-origin,5,, 2 2 2 4 4 5 5 5 6 6 6 Q Q Q K K K 4 9 J Q A 6 10 3 7 7 9 9 K K J J J J 
+AI-origin,3,3 3 3 5 5 5 5 5 6 7 7 8 J K K A A A A A A, A 2 
+AI-origin,7,5 5 5 5 5 6 8 J K K A A A A A A, A 2 8 9 10 J Q 
+AI-origin,0,5 5 5 5 5 8 J A A A A A A, A 2 8 9 10 J Q 3 3 3 7 7 9 9 9 5 5 6 6 K K 
+AI-origin,0,5 5 5 5 5 J A A A A A A, A 2 8 9 10 J Q 3 3 3 7 7 9 9 9 5 5 6 6 K K 6 
+AI-origin,0,5 5 5 5 5 A A A A A A, A 2 8 9 10 J Q 3 3 3 7 7 9 9 9 5 5 6 6 K K 6 8 
+AI-origin,1,5 5 5 5 5 A A A A, A 2 8 9 10 J Q 3 3 3 7 7 9 9 9 5 5 6 6 K K 6 8 J 
+AI-origin,5,A A A A, A 2 8 9 10 J Q 3 3 3 7 7 9 9 9 5 5 6 6 K K 6 8 J A A 
+AI-origin,5,, A 2 8 9 10 J Q 3 3 3 7 7 9 9 9 5 5 6 6 K K 6 8 J A A 5 5 5 5 5 
+AI-origin,0,3 3 4 4 6 7 7 7 7 8 9 9 J J J J Q K K K K A A A A 2, 
+AI-origin,1,4 4 7 7 7 7 9 9 J J J J Q K K K K A A A A 2, 5 6 8 2 3 6 
+AI-origin,1,9 9 Q K K K K A A A A 2, 5 6 8 2 3 6 3 3 9 9 K K A A 4 4 4 4 7 7 7 7 8 8 8 8 J J J J 
+AI-origin,1,Q K K K K A A A A 2, 5 6 8 2 3 6 3 3 9 9 K K A A 4 4 4 4 7 7 7 7 8 8 8 8 J J J J 4 4 
+AI-origin,0,K K K K A A A A 2, 5 6 8 2 3 6 3 3 9 9 K K A A 4 4 4 4 7 7 7 7 8 8 8 8 J J J J 4 4 9 9 
+AI-origin,0,K K K K A A A A, 5 6 8 2 3 6 3 3 9 9 K K A A 4 4 4 4 7 7 7 7 8 8 8 8 J J J J 4 4 9 9 Q 
+AI-origin,5,A A A A, 5 6 8 2 3 6 3 3 9 9 K K A A 4 4 4 4 7 7 7 7 8 8 8 8 J J J J 4 4 9 9 Q 2 
+AI-origin,5,, 5 6 8 2 3 6 3 3 9 9 K K A A 4 4 4 4 7 7 7 7 8 8 8 8 J J J J 4 4 9 9 Q 2 K K K K 
+AI-tree-model,7,3 6 6 6 7 7 9 9 J J J Q Q Q K K K K, 4 5 5 8 8 9 9 2 2 
+AI-tree-model,7,3 3 3 3 3 9 9 J J Q K A A 2 2 2 2, 10 10 10 J J J Q Q Q K K K 5 6 2 6 6 8 8 9 9 10 10 
+AI-tree-model,1,J J Q K A A 2 2 2 2, 10 10 10 J J J Q Q Q K K K 5 6 2 6 6 8 8 9 9 10 10 4 4 4 5 5 8 8 8 5 5 3 3 3 3 3 
+AI-tree-model,7,3 3 4 5 5 7 9 9 10 10 10 J J Q Q K K 2, 8 8 8 8 A A A A 
+AI-tree-model,7,5 5 7 9 9 J J Q Q K K, 8 8 8 8 A A A A 8 8 8 3 3 J J J 3 3 3 4 7 2 
